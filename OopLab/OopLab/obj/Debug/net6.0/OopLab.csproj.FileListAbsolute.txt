@@ -1,0 +1,29 @@
+D:\C#\OopLab\OopLab\bin\Debug\net6.0\OopLab.exe
+D:\C#\OopLab\OopLab\bin\Debug\net6.0\OopLab.deps.json
+D:\C#\OopLab\OopLab\bin\Debug\net6.0\OopLab.runtimeconfig.json
+D:\C#\OopLab\OopLab\bin\Debug\net6.0\OopLab.dll
+D:\C#\OopLab\OopLab\bin\Debug\net6.0\OopLab.pdb
+D:\C#\OopLab\OopLab\obj\Debug\net6.0\OopLab.csproj.AssemblyReference.cache
+D:\C#\OopLab\OopLab\obj\Debug\net6.0\OopLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OopLab\OopLab\obj\Debug\net6.0\OopLab.AssemblyInfoInputs.cache
+D:\C#\OopLab\OopLab\obj\Debug\net6.0\OopLab.AssemblyInfo.cs
+D:\C#\OopLab\OopLab\obj\Debug\net6.0\OopLab.csproj.CoreCompileInputs.cache
+D:\C#\OopLab\OopLab\obj\Debug\net6.0\OopLab.dll
+D:\C#\OopLab\OopLab\obj\Debug\net6.0\refint\OopLab.dll
+D:\C#\OopLab\OopLab\obj\Debug\net6.0\OopLab.pdb
+D:\C#\OopLab\OopLab\obj\Debug\net6.0\OopLab.genruntimeconfig.cache
+D:\C#\OopLab\OopLab\obj\Debug\net6.0\ref\OopLab.dll
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\bin\Debug\net6.0\OopLab.exe
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\bin\Debug\net6.0\OopLab.deps.json
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\bin\Debug\net6.0\OopLab.runtimeconfig.json
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\bin\Debug\net6.0\OopLab.dll
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\bin\Debug\net6.0\OopLab.pdb
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\obj\Debug\net6.0\OopLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\obj\Debug\net6.0\OopLab.AssemblyInfoInputs.cache
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\obj\Debug\net6.0\OopLab.AssemblyInfo.cs
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\obj\Debug\net6.0\OopLab.csproj.CoreCompileInputs.cache
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\obj\Debug\net6.0\OopLab.dll
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\obj\Debug\net6.0\refint\OopLab.dll
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\obj\Debug\net6.0\OopLab.pdb
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\obj\Debug\net6.0\OopLab.genruntimeconfig.cache
+C:\Users\taran\OneDrive\Робочий стіл\ООП (2 курс)\OopLab\OopLab\OopLab\obj\Debug\net6.0\ref\OopLab.dll
